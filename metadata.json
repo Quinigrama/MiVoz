@@ -1,0 +1,7 @@
+{
+  "name": "Sílabas con Mi Voz",
+  "description": "Graba frases para trocear tu voz en sílabas y leer cualquier texto, y practica inglés en voz alta.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
